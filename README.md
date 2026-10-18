@@ -20,8 +20,8 @@
 - JavaScript
 - Vue3
 
-## 四、AI前置基础（可选）
-- Python 最小基础
+## 四、AI前置基础
+- Python 基础
 
 ## 五、大模型应用基础
 - LLM基础 & 提示词工程
